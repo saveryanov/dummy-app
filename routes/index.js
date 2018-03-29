@@ -8,7 +8,7 @@ module.exports = function () {
     // main page
     router.get('/', function (req, res) {
         console.log("Called method: /.");
-        res.send('Trend Feeds API App');
+        res.send('Dummy API App');
     });
     
     // ping
