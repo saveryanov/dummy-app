@@ -13,5 +13,14 @@
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
     "morgan": "^1.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saveryanov/dummy-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saveryanov/dummy-app/issues"
+  },
+  "homepage": "https://github.com/saveryanov/dummy-app#readme"
 }
