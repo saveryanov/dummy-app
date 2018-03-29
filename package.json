@@ -4,7 +4,8 @@
   "description": "Dummy app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
